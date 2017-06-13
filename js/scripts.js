@@ -12,7 +12,7 @@ canvas.height = window.innerHeight;
 ctx.strokeStyle = 'aaa';
 ctx.lineJoin = 'round';
 ctx.lineCap = 'round';
-ctx.lineWidth = 50;
+ctx.lineWidth = 5;
 ctx.shadowBlur = 1;
 
 // Variables

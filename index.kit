@@ -3,20 +3,29 @@
 
 <body>
   
-    <div class="ui input controls">
-        <label for="size">Size:</label>
-        <input id="size" type="range" name="ssize" min="5" max="100" value="5" data-sizing="px">
+    <div class="ui three column grid input">
+        <div class="column">
+            <h2>Size</h2>
+            <input id="size" type="range" name="ssize" min="5" max="100" value="5" data-sizing="px">
+        </div>
        
-        <label for="blur">Blur:</label>
-        <input id="blur" type="range" name="blur" min="1" max="25" value="1" data-sizing="px">
+        <div class="column">
+<!--            <label for="blur">Blur:</label>-->
+           <h2>Blur</h2>
+            <input id="blur" type="range" name="blur" min="1" max="25" value="1" data-sizing="px">
+        </div>
         
-        <label for="color">Hue:</label>
-        <input id="color" type="range" name="color" min="0" max="360" value="0" data-sizing="px">
+        <div class="column">
+            <h2>Hue</h2>
+            <input id="color" type="range" name="color" min="0" max="360" value="0" data-sizing="px">
+        </div>
 
     </div>
 
     <canvas id="draw" width="800" height="800"></canvas>
-
+    <div style="display:none;">
+        <img id="picture" src="https://c1.staticflickr.com/2/1377/1396537841_7b5de02303_b.jpg" alt="">
+    </div>
 
 <!-- @import "html/scripts.kit" --> 
 </body>
