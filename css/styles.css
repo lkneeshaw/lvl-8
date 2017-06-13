@@ -34110,6 +34110,12 @@ html.ios {
          Site Overrides
 *******************************/
 /* line 4, /Users/laurakneeshaw/Desktop/lvl-8/css/styles.scss */
+:root {
+  --base: #ffc600;
+  --size: 10px;
+  --blur: 10px; }
+
+/* line 10, /Users/laurakneeshaw/Desktop/lvl-8/css/styles.scss */
 html, body {
   margin: 0; }
 

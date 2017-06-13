@@ -1,6 +1,12 @@
 /* Stylehsheet */
 @import "semantic";
 
+:root {
+    --base: #ffc600;
+    --size: 10px;
+    --blur: 10px;
+}
+
   html, body {
     margin:0;
   }
