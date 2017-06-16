@@ -111,7 +111,7 @@
 		},
 	"\/img\/favicons\/android-chrome-192x192.png": {
 		"ft": 32768,
-		"iS": 39826,
+		"iS": 10416,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/android-chrome-192x192.png",
 		"oF": 0,
@@ -120,11 +120,11 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/img\/favicons\/android-chrome-512x512.png": {
+	"\/img\/favicons\/android-chrome-384x384.png": {
 		"ft": 32768,
-		"iS": 223203,
+		"iS": 27209,
 		"oA": 0,
-		"oAP": "\/docs\/img\/favicons\/android-chrome-512x512.png",
+		"oAP": "\/docs\/img\/favicons\/android-chrome-384x384.png",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
@@ -133,7 +133,7 @@
 		},
 	"\/img\/favicons\/apple-touch-icon.png": {
 		"ft": 32768,
-		"iS": 35625,
+		"iS": 9706,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/apple-touch-icon.png",
 		"oF": 0,
@@ -150,7 +150,7 @@
 		},
 	"\/img\/favicons\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1237,
+		"iS": 1134,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-16x16.png",
 		"oF": 0,
@@ -161,7 +161,7 @@
 		},
 	"\/img\/favicons\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 2272,
+		"iS": 1852,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/favicon-32x32.png",
 		"oF": 0,
@@ -176,9 +176,17 @@
 		"oAP": "\/docs\/img\/favicons\/favicon.ico",
 		"oF": 0
 		},
+	"\/img\/favicons\/manifest.json": {
+		"ft": 524288,
+		"oA": 0,
+		"oAP": "\/docs\/img\/favicons\/manifest.json",
+		"oF": 0,
+		"oO": 0,
+		"oS": 1
+		},
 	"\/img\/favicons\/mstile-150x150.png": {
 		"ft": 32768,
-		"iS": 20590,
+		"iS": 4936,
 		"oA": 0,
 		"oAP": "\/docs\/img\/favicons\/mstile-150x150.png",
 		"oF": 0,
@@ -186,16 +194,6 @@
 		"opt": 1,
 		"oT": 1,
 		"q": 100
-		},
-	"\/img\/favicons\/safari-pinned-tab.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/docs\/img\/favicons\/safari-pinned-tab.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/img\/handmadepaper.png": {
 		"ft": 32768,
